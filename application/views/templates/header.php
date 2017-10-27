@@ -16,7 +16,7 @@
 		<div id="navbar">
 			<ul class="nav navbar-nav">
 				<li><a href="<?php echo base_url(); ?>">Home</a></li>
-				<li><a href="<?php echo base_url(); ?>posts">Post</a></li>
+				<li><a href="<?php echo base_url(); ?>posts">Blog</a></li>
 				<li><a href="<?php echo base_url(); ?>about">About</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
