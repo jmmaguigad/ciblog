@@ -1,2 +1,3 @@
 # ciblog
-Blog using CodeIgniter  Status: On-going
+Blog using CodeIgniter  
+> Status: On-going
